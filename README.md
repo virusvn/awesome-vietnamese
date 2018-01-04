@@ -13,6 +13,7 @@ Những dự án mã nguồn mở do người Việt đóng góp trên 50%, ho�
 - [Koel (also stylized as koel, with a lowercase k) is a simple web-based personal audio streaming service written in Vue on the client side and Laravel on the server side](https://github.com/phanan/koel)
 - [Freewall is a cross-browser and responsive jQuery plugin to help you create many types of grid layouts for desktop, mobile, and tablet...](https://github.com/kombai/freewall)
 - [agar.io-clone](https://github.com/huytd/agar.io-clone)
+- [Manta - A desktop application for creating invoices with beautiful and customizable templates](https://github.com/hql287/Manta)
 # TO DO
 - Phân loại
 - Tìm thêm các repo khác
