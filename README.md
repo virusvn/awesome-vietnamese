@@ -16,6 +16,9 @@ Những dự án mã nguồn mở do người Việt đóng góp trên 50%, ho�
 - [agar.io-clone](https://github.com/huytd/agar.io-clone)
 - [Manta - A desktop application for creating invoices with beautiful and customizable templates](https://github.com/hql287/Manta)
 - [Laravue - Admin UI for Laravel + Vue.js](https://github.com/tuandm/laravue)
+## Guide
+- [Golang guide: ultimate-go](https://github.com/hoanhan101/ultimate-go)
+
 # TO DO
 - Phân loại
 - Tìm thêm các repo khác
