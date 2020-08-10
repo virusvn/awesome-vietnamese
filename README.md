@@ -2,10 +2,20 @@ just-awesome-vietnamese
 =======================
 
 JAV is a curated list of awesome resources made by and for Vietnamese software engineers. Feel free to contribute by submitting a pull request.
-JAV tập hợp các community, blog và sản phẩm phần mềm nổi bật của người Việt trên toàn thế giới. Chúng tôi luôn muốn nhận thêm pull request từ các bạn.
+JAV tập hợp các community, blog và sản phẩm phần mềm nổi bật của người Việt trên toàn thế giới. Chúng tôi luôn muốn [nhận thêm pull request từ các bạn](CONTRIBUTING.md).
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Country](https://img.shields.io/badge/country-vietnam-blue.svg)](https://github.com/thanhphu/awesome-vietnamese)
+
+# Cộng đồng
+- [WeBuild Community](https://webuild.community/) A platform that connects developers in Vietnam, where they can share their knowledge and experience, while working, learning, and building cool stuffs together.
+- [Vietnam Software Internship Project](https://netviet.kr/vsip) Cộng đồng mentoring, rèn luyện các kỹ năng thiết thực cho việc xin việc trong ngành phần mềm ở Hàn Quốc
+
+# Blog
+Các blog đáng quan tâm trong ngành
+- [The Full Snack](https://thefullsnack.com) Blog của bạn Huy làm Frontend ở Synchrony bank, Silicon Valley
+- [VNHacker](vnhacker.blogspot.com/) Blog của anh Thái làm security engineer ở Google
+- [Huy DX](https://huydx.com/) Huy, kỹ sư phần mềm ở Line Tokyo
 
 # Nguồn mở
 
@@ -25,6 +35,7 @@ Những dự án mã nguồn mở do người Việt đóng góp trên 50%, ho�
 - [agar.io-clone](https://github.com/huytd/agar.io-clone)
 - [Manta - A desktop application for creating invoices with beautiful and customizable templates](https://github.com/hql287/Manta)
 - [Laravue - Admin UI for Laravel + Vue.js](https://github.com/tuandm/laravue)
+- [Ruby JARD](https://github.com/nguyenquangminh0711/ruby_jard) Jard stands for Just Another Ruby Debugger, aims to provide a better experience while debugging Ruby
 
 ## Kiến thức
 - [Golang guide: ultimate-go](https://github.com/hoanhan101/ultimate-go)
