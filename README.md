@@ -1,4 +1,13 @@
-# awesome-vietnamese
+just-awesome-vietnamese
+=======================
+
+JAV is a curated list of awesome resources made by and for Vietnamese software engineers. Feel free to contribute by submitting a pull request.
+JAV tập hợp các community, blog và sản phẩm phần mềm nổi bật của người Việt trên toàn thế giới. Chúng tôi luôn muốn nhận thêm pull request từ các bạn.
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+[![Country](https://img.shields.io/badge/country-vietnam-blue.svg)](https://github.com/thanhphu/awesome-vietnamese)
+
+# Nguồn mở
 
 Những dự án mã nguồn mở do người Việt đóng góp trên 50%, hoặc là người sở hữu, có ít nhất tổng cộng 100 (stars + forks), có tính chất global. Danh sách này để cho chúng ta thấy những giá trị cơ bản mà cộng đồng người Việt khắp nơi trên thế giới đóng góp. Có lẽ một số bạn gốc Việt, không được đào tạo bởi giáo dục Việt Nam, nhưng hi vọng sẽ được các bạn ủng hộ để cộng đồng mã nguồn mở VN ngày càng mạnh hơn.
 
@@ -16,9 +25,6 @@ Những dự án mã nguồn mở do người Việt đóng góp trên 50%, ho�
 - [agar.io-clone](https://github.com/huytd/agar.io-clone)
 - [Manta - A desktop application for creating invoices with beautiful and customizable templates](https://github.com/hql287/Manta)
 - [Laravue - Admin UI for Laravel + Vue.js](https://github.com/tuandm/laravue)
-## Guide
-- [Golang guide: ultimate-go](https://github.com/hoanhan101/ultimate-go)
 
-# TO DO
-- Phân loại
-- Tìm thêm các repo khác
+## Kiến thức
+- [Golang guide: ultimate-go](https://github.com/hoanhan101/ultimate-go)
