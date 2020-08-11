@@ -12,6 +12,7 @@ JAV tập hợp các cộng đồng, blog và sản phẩm phần mềm nổi b�
 - [WeBuild Community](https://webuild.community/) A platform that connects developers in Vietnam, where they can share their knowledge and experience, while working, learning, and building cool stuffs together.
 - [Vietnam Software Internship Project](https://netviet.kr/vsip) Cộng đồng mentoring, rèn luyện các kỹ năng thiết thực cho việc xin việc trong ngành phần mềm ở Hàn Quốc
 - [Google Developers Group Vietnam](https://linkedin.com/company/google-developer-groups-vietnam-gdg-vietnam-) Cộng đồng developers sử dụng công nghệ của Google tại Việt Nam
+- [Grokking](https://www.grokking.org/) A playground for highly-skilled Software engineers in Vietnam
 
 # Blog
 Các blog đáng quan tâm trong ngành
