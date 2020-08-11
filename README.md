@@ -16,6 +16,7 @@ JAV tập hợp các cộng đồng, blog và sản phẩm phần mềm nổi b�
 
 # Blog
 Các blog đáng quan tâm trong ngành
+- [Codeaholicguy](https://codeaholicguy.com/) Blog của Hoàng, làm việc ở Shopback @ HCMC
 - [Dale Nguyen on ITNEXT](https://itnext.io/@dalenguyen) Blog của Dũng, backend engineer @ Canada
 - [FAMI Linux User Group](https://www.familug.org/) Blog vể Python, Linux, programming
 - [Huy DX](https://huydx.com/) Huy, kỹ sư phần mềm ở Line Tokyo
