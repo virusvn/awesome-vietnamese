@@ -1,9 +1,9 @@
-just-awesome-vietnamese
-=======================
+awesome-vietnamese
+==================
 
-JAV is a curated list of awesome resources made by and for Vietnamese software engineers. Feel free to contribute by submitting a pull request.
+awesome-vietnamese is a curated list of awesome resources made by and for Vietnamese software engineers. Feel free to contribute by submitting a pull request.
 
-JAV tập hợp các cộng đồng, blog và sản phẩm phần mềm nổi bật của người Việt trên toàn thế giới. Chúng tôi luôn muốn [nhận thêm pull request từ các bạn](CONTRIBUTING.md).
+awesome-vietnamese tập hợp các cộng đồng, blog và sản phẩm phần mềm nổi bật của người Việt trên toàn thế giới. Chúng tôi luôn muốn [nhận thêm pull request từ các bạn](CONTRIBUTING.md).
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Country](https://img.shields.io/badge/country-vietnam-blue.svg)](https://github.com/thanhphu/awesome-vietnamese)
