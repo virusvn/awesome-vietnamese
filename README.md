@@ -23,8 +23,10 @@ Các blog đáng quan tâm trong ngành
 - [FAMI Linux User Group](https://www.familug.org/) Blog vể Python, Linux, programming
 - [Huy DX](https://huydx.com/) Huy, kỹ sư phần mềm ở Line Tokyo
 - [Machine learning cơ bản](https://machinelearningcoban.com/) Blog của anh Tiệp, tiến sĩ ML và CV từ Pennsylvania State University
-- [The Full Snack](https://thefullsnack.com) Blog của Huy làm Frontend ở Synchrony bank, Silicon Valley
-- [VNHacker](https://vnhacker.blogspot.com/) Blog của anh Thái làm security engineer ở Google
+- [The Full Snack](https://thefullsnack.com) Blog của Huy làm Frontend ở Synchrony bank, Silicon Valley, khá hài hước
+- [VNHacker](https://vnhacker.blogspot.com/) Blog của anh Thái làm security engineer ở Google, update thường xuyên và có nhiều phân tích chất lượng về bảo mật
+- [Tôi đi code dạo](https://toidicodedao.com) Blog về cuộc sống của một developer
+- [Runi blog](http://runikitkat.com/) Blog về go, rust, cuộc sống của developer 
 
 ## Podcast
 - [Kipacast](https://kipacast.info) Phỏng vấn các nhân vật trong làng software Việt trên toàn thế giới
