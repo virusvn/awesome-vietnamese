@@ -14,7 +14,9 @@ JAV tập hợp các cộng đồng, blog và sản phẩm phần mềm nổi b�
 - [Google Developers Group Vietnam](https://linkedin.com/company/google-developer-groups-vietnam-gdg-vietnam-) Cộng đồng developers sử dụng công nghệ của Google tại Việt Nam
 - [Grokking](https://www.grokking.org/) A playground for highly-skilled Software engineers in Vietnam
 
-# Blog
+# Media
+
+## Blog
 Các blog đáng quan tâm trong ngành
 - [Codeaholicguy](https://codeaholicguy.com/) Blog của Hoàng, làm việc ở Shopback @ HCMC
 - [Dale Nguyen on ITNEXT](https://itnext.io/@dalenguyen) Blog của Dũng, backend engineer @ Canada
@@ -23,6 +25,9 @@ Các blog đáng quan tâm trong ngành
 - [Machine learning cơ bản](https://machinelearningcoban.com/) Blog của anh Tiệp, tiến sĩ ML và CV từ Pennsylvania State University
 - [The Full Snack](https://thefullsnack.com) Blog của Huy làm Frontend ở Synchrony bank, Silicon Valley
 - [VNHacker](https://vnhacker.blogspot.com/) Blog của anh Thái làm security engineer ở Google
+
+## Podcast
+- [Kipacast](https://kipacast.info) Phỏng vấn các nhân vật trong làng software Việt trên toàn thế giới
 
 # Nguồn mở
 
