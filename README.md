@@ -54,6 +54,21 @@ Những dự án mã nguồn mở do người Việt đóng góp trên 50%, ho�
 - [Ruby JARD](https://github.com/nguyenquangminh0711/ruby_jard) Jard stands for Just Another Ruby Debugger, aims to provide a better experience while debugging Ruby
 - [Watso Word Watcher](https://github.com/dannguyen/watson-word-watcher)
 
+## Tài nguyên xử lý ngôn ngữ tự nhiên /. NLP in Vietnamese 
+
+### Thự viện / Libraries
+
+- [underthesea](https://github.com/undertheseanlp/underthesea) - Vietnamese NLP Toolkit
+- [vn.vitk](https://github.com/phuonglh/vn.vitk) - A Vietnamese Text Processing Toolkit
+- [VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP) - A Vietnamese natural language processing toolkit
+
+### Dữ liệu / Data
+
+- [Vietnamese treebank](https://vlsp.hpda.vn/demo/?page=resources&lang=en) - 10,000 sentences for the constituency parsing task
+- [BKTreeBank](https://arxiv.org/pdf/1710.05519.pdf) - a Vietnamese Dependency Treebank
+- [UD_Vietnamese](https://github.com/UniversalDependencies/UD_Vietnamese-VTB) - Vietnamese Universal Dependency Treebank
+- [VIVOS](https://ailab.hcmus.edu.vn/vivos/) - a free Vietnamese speech corpus consisting of 15 hours of recording speech by AILab
+- [VNTQcorpus(big).txt](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus) - 1.75 million sentences in news
 
 # Kiến thức
 - [Golang guide: ultimate-go](https://github.com/hoanhan101/ultimate-go)
