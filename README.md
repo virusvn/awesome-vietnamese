@@ -3,7 +3,7 @@ just-awesome-vietnamese
 
 JAV is a curated list of awesome resources made by and for Vietnamese software engineers. Feel free to contribute by submitting a pull request.
 
-JAV tập hợp các đồng, blog và sản phẩm phần mềm nổi bật của người Việt trên toàn thế giới. Chúng tôi luôn muốn [nhận thêm pull request từ các bạn](CONTRIBUTING.md).
+JAV tập hợp các cộng đồng, blog và sản phẩm phần mềm nổi bật của người Việt trên toàn thế giới. Chúng tôi luôn muốn [nhận thêm pull request từ các bạn](CONTRIBUTING.md).
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Country](https://img.shields.io/badge/country-vietnam-blue.svg)](https://github.com/thanhphu/awesome-vietnamese)
@@ -11,7 +11,7 @@ JAV tập hợp các đồng, blog và sản phẩm phần mềm nổi bật c�
 # Cộng đồng
 - [WeBuild Community](https://webuild.community/) A platform that connects developers in Vietnam, where they can share their knowledge and experience, while working, learning, and building cool stuffs together.
 - [Vietnam Software Internship Project](https://netviet.kr/vsip) Cộng đồng mentoring, rèn luyện các kỹ năng thiết thực cho việc xin việc trong ngành phần mềm ở Hàn Quốc
-- [Google Developers Group Vietnam](http://www.gdgvietnam.com/) Cộng đồng developers sử dụng công nghệ của Google tại Việt Nam
+- [Google Developers Group Vietnam](https://linkedin.com/company/google-developer-groups-vietnam-gdg-vietnam-) Cộng đồng developers sử dụng công nghệ của Google tại Việt Nam
 
 # Blog
 Các blog đáng quan tâm trong ngành
@@ -19,6 +19,7 @@ Các blog đáng quan tâm trong ngành
 - [VNHacker](https://vnhacker.blogspot.com/) Blog của anh Thái làm security engineer ở Google
 - [Huy DX](https://huydx.com/) Huy, kỹ sư phần mềm ở Line Tokyo
 - [Machine learning cơ bản](https://machinelearningcoban.com/) Blog của anh Tiệp, tiến sĩ ML và CV từ Pennsylvania State University
+- [Dale Nguyen on ITNEXT](https://itnext.io/@dalenguyen) Blog của Dũng, backend engineer @ Canada
 
 # Nguồn mở
 
@@ -40,5 +41,6 @@ Những dự án mã nguồn mở do người Việt đóng góp trên 50%, ho�
 - [Laravue - Admin UI for Laravel + Vue.js](https://github.com/tuandm/laravue)
 - [Ruby JARD](https://github.com/nguyenquangminh0711/ruby_jard) Jard stands for Just Another Ruby Debugger, aims to provide a better experience while debugging Ruby
 
-## Kiến thức
+# Kiến thức
 - [Golang guide: ultimate-go](https://github.com/hoanhan101/ultimate-go)
+- [Building RESTful Web APIs with Node.js, Express, MongoDB and TypeScript](https://restful-api-node-typescript.books.dalenguyen.me/en/latest/)
