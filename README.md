@@ -53,6 +53,7 @@ Những dự án mã nguồn mở do người Việt đóng góp trên 50%, ho�
 - [Responsive Test](https://github.com/nghuuphuoc/responsivetest)
 - [Ruby JARD](https://github.com/nguyenquangminh0711/ruby_jard) Jard stands for Just Another Ruby Debugger, aims to provide a better experience while debugging Ruby
 - [Watso Word Watcher](https://github.com/dannguyen/watson-word-watcher)
+- [Human-First AI: h1st-ai/h1st](https://github.com/h1st-ai/h1st)
 
 ## Tài nguyên xử lý ngôn ngữ tự nhiên /. NLP in Vietnamese 
 
