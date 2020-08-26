@@ -27,6 +27,7 @@ Các blog đáng quan tâm trong ngành
 - [VNHacker](https://vnhacker.blogspot.com/) Blog của anh Thái làm security engineer ở Google, update thường xuyên và có nhiều phân tích chất lượng về bảo mật
 - [Tôi đi code dạo](https://toidicodedao.com) Blog về cuộc sống của một developer
 - [Runi blog](http://runikitkat.com/) Blog về go, rust, cuộc sống của developer
+- [Blog của Huan Truong](http://www.tnhh.net/) Blog của Huân, kỹ sư làm việc tại Tesla [Blog Tiếng Việt](http://wasabi.spiderum.com/)
 
 ## Podcast
 - [Kipacast](https://kipacast.info) Phỏng vấn các nhân vật trong làng software Việt trên toàn thế giới
@@ -53,8 +54,6 @@ Những dự án mã nguồn mở do người Việt đóng góp trên 50%, ho�
 - [Responsive Test](https://github.com/nghuuphuoc/responsivetest)
 - [Ruby JARD](https://github.com/nguyenquangminh0711/ruby_jard) Jard stands for Just Another Ruby Debugger, aims to provide a better experience while debugging Ruby
 - [Watso Word Watcher](https://github.com/dannguyen/watson-word-watcher)
-- [Các thao tác với HTML DOM sử dụng vanilla JavaScript](https://github.com/phuoc-ng/html-dom)
-- [Các câu lệnh trong JavaScript chỉ với 1 dòng code](https://github.com/phuoc-ng/1loc)
 
 ## Tài nguyên xử lý ngôn ngữ tự nhiên /. NLP in Vietnamese
 
@@ -77,3 +76,5 @@ Những dự án mã nguồn mở do người Việt đóng góp trên 50%, ho�
 - [Golang guide: ultimate-go](https://github.com/hoanhan101/ultimate-go)
 - [Building RESTful Web APIs with Node.js, Express, MongoDB and TypeScript](https://restful-api-node-typescript.books.dalenguyen.me/en/latest/)
 - [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) Code examples for the Stanford's course: TensorFlow for Deep Learning Research.
+- [Các thao tác với HTML DOM sử dụng vanilla JavaScript](https://github.com/phuoc-ng/html-dom)
+- [Các câu lệnh trong JavaScript chỉ với 1 dòng code](https://github.com/phuoc-ng/1loc)
