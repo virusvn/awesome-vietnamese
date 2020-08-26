@@ -1,7 +1,7 @@
 awesome-vietnamese
 ==================
 
-awesome-vietnamese is a curated list of awesome resources made by and for Vietnamese software engineers. Feel free to contribute by submitting a pull request.
+awesome-vietnamese is a curated list of awesome resources made by and for Vietnamese software engineers. Feel free to contribute by [submitting a pull request](CONTRIBUTING.md).
 
 awesome-vietnamese tập hợp các cộng đồng, blog và sản phẩm phần mềm nổi bật của người Việt trên toàn thế giới. Chúng tôi luôn muốn [nhận thêm pull request từ các bạn](CONTRIBUTING.md).
 
@@ -34,47 +34,65 @@ Các blog đáng quan tâm trong ngành
 
 # Nguồn mở
 
-Những dự án mã nguồn mở do người Việt đóng góp trên 50%, hoặc là người sở hữu, có ít nhất tổng cộng 100 (stars + forks), có tính chất global. Danh sách này để cho chúng ta thấy những giá trị cơ bản mà cộng đồng người Việt khắp nơi trên thế giới đóng góp. Có lẽ một số bạn gốc Việt, không được đào tạo bởi giáo dục Việt Nam, nhưng hi vọng sẽ được các bạn ủng hộ để cộng đồng mã nguồn mở VN ngày càng mạnh hơn.
+Những dự án mã nguồn mở do người Việt (bao gồm cả gốc Việt) đóng góp trên 50%, hoặc là người sở hữu, có ít nhất tổng cộng 100 (stars + forks), có tính chất global. Danh sách này để cho chúng ta thấy những giá trị cơ bản mà cộng đồng người Việt khắp nơi trên thế giới đóng góp.
 
-- [agar.io-clone](https://github.com/huytd/agar.io-clone)
-- [Bootstrap Validator](https://github.com/nghuuphuoc/bootstrapvalidator)
-- [Capstone](https://github.com/aquynh/capstone) Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore)
+- [agar.io-clone](https://github.com/huytd/agar.io-clone) ![Stars](https://img.shields.io/github/stars/huytd/agar.io-clone.svg?style=flat-square)
+- [camaro](https://github.com/tuananh/camaro)  camaro is an utility to transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around ![Stars](https://img.shields.io/github/stars/tuananh/camaro.svg?style=flat-square)
+- [Capstone](https://github.com/aquynh/capstone) Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) ![Stars](https://img.shields.io/github/stars/aquynh/capstone.svg?style=flat-square)
 - [Crankshaft](https://github.com/opencardev/crankshaft) A turnkey GNU/Linux solution that transforms a Raspberry Pi to an Android Auto head unit.
 - [esp_mqtt](https://github.com/tuanpmt/esp_mqtt)MQTT client library for ESP8266
+- [FormValidation](https://github.com/formvalidation/formvalidation) best @jquery plugin to validate form fields. ![Stars](https://img.shields.io/github/stars/formvalidation/formvalidation.svg?style=flat-square)
 - [Freewall is a cross-browser and responsive jQuery plugin to help you create many types of grid layouts for desktop, mobile, and tablet...](https://github.com/kombai/freewall)
 - [Hệ thống hỏi đáp Phanbook](http://phanbook.com/en/)
 - [koel](https://github.com/phanan/koel) is a simple web-based personal audio streaming service written in Vue on the client side and Laravel on the server side
-- [Laravue - Admin UI for Laravel + Vue.js](https://github.com/tuandm/laravue)
+- [Laravue - Admin UI for Laravel + Vue.js](https://github.com/tuandm/laravue) Admin dashboard for enterprise Laravel applications built by VueJS and Element UI  ![Stars](https://img.shields.io/github/stars/tuandm/laravue.svg?style=flat-square)
 - [Manta - A desktop application for creating invoices with beautiful and customizable templates](https://github.com/hql287/Manta)
-- [Mongoose plugin to enable deep population of nested models](https://github.com/buunguyen/mongoose-deep-populate)
+- [Mongoose plugin to enable deep population of nested models](https://github.com/buunguyen/mongoose-deep-populate) Mongoose plugin to enable deep population of nested models ⛺ ![Stars](https://img.shields.io/github/stars/buunguyen/mongoose-deep-populate.svg?style=flat-square)
 - [Octotree - Browser extension for Github & Gitlab](https://github.com/buunguyen/octotree)
-- [OpenKey - Vietnamese Input for macOS, Windows and Linux](https://github.com/tuyenvm/OpenKey)
 - [pacapt](https://github.com/icy/pacapt) An ArchLinux's pacman-like wrapper for many package managers
 - [Pencil - GUI prototyping tool](https://github.com/evolus/pencil)
 - [Responsive Test](https://github.com/nghuuphuoc/responsivetest)
 - [Ruby JARD](https://github.com/nguyenquangminh0711/ruby_jard) Jard stands for Just Another Ruby Debugger, aims to provide a better experience while debugging Ruby
 - [Watso Word Watcher](https://github.com/dannguyen/watson-word-watcher)
 
-## Tài nguyên xử lý ngôn ngữ tự nhiên /. NLP in Vietnamese
+# Nguồn đóng
+- [Manta](https://github.com/hql287/Manta) 🎉 Flexible invoicing desktop app with beautiful & customizable templates. ![Stars](https://img.shields.io/github/stars/hql287/Manta.svg?style=flat-square)
+- [Proxyman](https://github.com/ProxymanApp/Proxyman)  Modern and Delightful HTTP Debugging Proxy for macOS, iOS and Android ![Stars](https://img.shields.io/github/stars/ProxymanApp/Proxyman.svg?style=flat-square)
+- [TablePlus](https://github.com/TablePlus/TablePlus)  TablePlus is a native app which helps you easily edit database data and structure ![Stars](https://img.shields.io/github/stars/TablePlus/TablePlus.svg?style=flat-square)
 
-### Thự viện / Libraries
+# Kiến thức
+- [Golang guide: ultimate-go](https://github.com/hoanhan101/ultimate-go)
+- [Building RESTful Web APIs with Node.js, Express, MongoDB and TypeScript](https://restful-api-node-typescript.books.dalenguyen.me/en/latest/)
+- [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) Code examples for the Stanford's course: TensorFlow for Deep Learning Research.
+- [Các thao tác với HTML DOM sử dụng vanilla JavaScript](https://github.com/phuoc-ng/html-dom) ![Stars](https://img.shields.io/github/stars/phuoc-ng/html-dom.svg?style=flat-square)
+- [Các câu lệnh trong JavaScript chỉ với 1 dòng code](https://github.com/phuoc-ng/1loc) ![Stars](https://img.shields.io/github/stars/phuoc-ng/1loc.svg?style=flat-square)
+- [CSS Layout](https://github.com/phuoc-ng/csslayout) A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing! ![Stars](https://img.shields.io/github/stars/phuoc-ng/csslayout.svg?style=flat-square)
+
+# Bộ gõ tiếng Việt
+
+## Nguồn mở
+- [ibus-bamboo](https://github.com/BambooEngine/ibus-bamboo) [Linux] Bộ gõ được cập nhật thường xuyên và sửa nhiều lỗi thường gặp (lỗi gõ trong browser...)
+- [OpenKey](https://github.com/tuyenvm/OpenKey) [Win / Mac / Linux] Fork of Unikey
+- [NAKL](https://github.com/huyphan/NAKL) [Mac]
+
+## Nguồn đóng
+- [EV Key](https://evkeyvn.com/) [Win / Mac] Fork of Unikey
+- [Gotiengviet](https://www.trankynam.com/gotv) [Win / Mac / Linux] Fork of Unikey
+- [Unikey](https://www.unikey.org/linux.html) [Win / Mac / Linux] Anh cả của các bộ gõ tiếng Việt
+
+# Tài nguyên xử lý ngôn ngữ tự nhiên / NLP in Vietnamese
+
+## Thư viện / Libraries
 
 - [underthesea](https://github.com/undertheseanlp/underthesea) - Vietnamese NLP Toolkit
 - [vn.vitk](https://github.com/phuonglh/vn.vitk) - A Vietnamese Text Processing Toolkit
 - [VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP) - A Vietnamese natural language processing toolkit
 - [View PDF ReactJS](https://github.com/phuoc-ng/react-pdf-viewer)
 
-### Dữ liệu / Data
+## Dữ liệu / Data
 
 - [Vietnamese treebank](https://vlsp.hpda.vn/demo/?page=resources&lang=en) - 10,000 sentences for the constituency parsing task
 - [BKTreeBank](https://arxiv.org/pdf/1710.05519.pdf) - a Vietnamese Dependency Treebank
 - [UD_Vietnamese](https://github.com/UniversalDependencies/UD_Vietnamese-VTB) - Vietnamese Universal Dependency Treebank
 - [VIVOS](https://ailab.hcmus.edu.vn/vivos/) - a free Vietnamese speech corpus consisting of 15 hours of recording speech by AILab
 - [VNTQcorpus(big).txt](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus) - 1.75 million sentences in news
-
-# Kiến thức
-- [Golang guide: ultimate-go](https://github.com/hoanhan101/ultimate-go)
-- [Building RESTful Web APIs with Node.js, Express, MongoDB and TypeScript](https://restful-api-node-typescript.books.dalenguyen.me/en/latest/)
-- [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) Code examples for the Stanford's course: TensorFlow for Deep Learning Research.
-- [Các thao tác với HTML DOM sử dụng vanilla JavaScript](https://github.com/phuoc-ng/html-dom)
-- [Các câu lệnh trong JavaScript chỉ với 1 dòng code](https://github.com/phuoc-ng/1loc)
