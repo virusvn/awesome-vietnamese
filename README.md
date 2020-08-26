@@ -42,7 +42,8 @@ Thứ tụ A-Z theo tên project
 - [camaro](https://github.com/tuananh/camaro)  camaro is an utility to transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around ![Stars](https://img.shields.io/github/stars/tuananh/camaro.svg?style=flat-square)
 - [Capstone](https://github.com/aquynh/capstone) Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) ![Stars](https://img.shields.io/github/stars/aquynh/capstone.svg?style=flat-square)
 - [Crankshaft](https://github.com/opencardev/crankshaft) A turnkey GNU/Linux solution that transforms a Raspberry Pi to an Android Auto head unit.
-- [esp_mqtt](https://github.com/tuanpmt/esp_mqtt)MQTT client library for ESP8266
+- [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) A nicer iOS UI component for picking date and time. ![Stars](https://img.shields.io/github/stars/itsmeichigo/DateTimePicker.svg?style=flat-square)
+- [esp_mqtt](https://github.com/tuanpmt/esp_mqtt) MQTT client library for ESP8266 ![Stars](https://img.shields.io/github/stars/tuanpmt/esp_mqtt.svg?style=flat-square)
 - [FormValidation](https://github.com/formvalidation/formvalidation) best @jquery plugin to validate form fields. ![Stars](https://img.shields.io/github/stars/formvalidation/formvalidation.svg?style=flat-square)
 - [Freewall is a cross-browser and responsive jQuery plugin to help you create many types of grid layouts for desktop, mobile, and tablet...](https://github.com/kombai/freewall)
 - [Hệ thống hỏi đáp Phanbook](http://phanbook.com/en/)
@@ -70,6 +71,7 @@ Thứ tụ A-Z theo tên project
 - [Các thao tác với HTML DOM sử dụng vanilla JavaScript](https://github.com/phuoc-ng/html-dom) ![Stars](https://img.shields.io/github/stars/phuoc-ng/html-dom.svg?style=flat-square)
 - [CSS Layout](https://github.com/phuoc-ng/csslayout) A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing! ![Stars](https://img.shields.io/github/stars/phuoc-ng/csslayout.svg?style=flat-square)
 - [Golang guide: ultimate-go](https://github.com/hoanhan101/ultimate-go)
+- [htaccess](https://github.com/phanan/htaccess) ✂A collection of useful .htaccess snippets
 - [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) Code examples for the Stanford's course: TensorFlow for Deep Learning Research.
 
 # Bộ gõ tiếng Việt
