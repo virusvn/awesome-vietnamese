@@ -9,10 +9,10 @@ awesome-vietnamese tập hợp các cộng đồng, blog và sản phẩm phần
 [![Country](https://img.shields.io/badge/country-vietnam-blue.svg)](https://github.com/thanhphu/awesome-vietnamese)
 
 # Cộng đồng
-- [WeBuild Community](https://webuild.community/) A platform that connects developers in Vietnam, where they can share their knowledge and experience, while working, learning, and building cool stuffs together.
-- [Vietnam Software Internship Project](https://netviet.kr/vsip) Cộng đồng mentoring, rèn luyện các kỹ năng thiết thực cho việc xin việc trong ngành phần mềm ở Hàn Quốc
 - [Google Developers Group Vietnam](https://linkedin.com/company/google-developer-groups-vietnam-gdg-vietnam-) Cộng đồng developers sử dụng công nghệ của Google tại Việt Nam
 - [Grokking](https://www.grokking.org/) A playground for highly-skilled Software engineers in Vietnam
+- [Vietnam Software Internship Project](https://netviet.kr/vsip) Cộng đồng mentoring, rèn luyện các kỹ năng thiết thực cho việc xin việc trong ngành phần mềm ở Hàn Quốc
+- [WeBuild Community](https://webuild.community/) A platform that connects developers in Vietnam, where they can share their knowledge and experience, while working, learning, and building cool stuffs together.
 
 # Media
 
@@ -21,13 +21,13 @@ Các blog đáng quan tâm trong ngành
 - [Codeaholicguy](https://codeaholicguy.com/) Blog của Hoàng, làm việc ở Shopback @ HCMC
 - [Dale Nguyen on ITNEXT](https://itnext.io/@dalenguyen) Blog của Dũng, backend engineer @ Canada
 - [FAMI Linux User Group](https://www.familug.org/) Blog vể Python, Linux, programming
+- [Huan Truong's blog](http://www.tnhh.net/) Blog của Huân, kỹ sư làm việc tại Tesla [Blog Tiếng Việt](http://wasabi.spiderum.com/)
 - [Huy DX](https://huydx.com/) Huy, kỹ sư phần mềm ở Line Tokyo
 - [Machine learning cơ bản](https://machinelearningcoban.com/) Blog của anh Tiệp, tiến sĩ ML và CV từ Pennsylvania State University
+- [Runi's blog](http://runikitkat.com/) Blog về go, rust, cuộc sống của developer
 - [The Full Snack](https://thefullsnack.com) Blog của Huy làm Frontend ở Synchrony bank, Silicon Valley, khá hài hước
-- [VNHacker](https://vnhacker.blogspot.com/) Blog của anh Thái làm security engineer ở Google, update thường xuyên và có nhiều phân tích chất lượng về bảo mật
 - [Tôi đi code dạo](https://toidicodedao.com) Blog về cuộc sống của một developer
-- [Runi blog](http://runikitkat.com/) Blog về go, rust, cuộc sống của developer
-- [Blog của Huan Truong](http://www.tnhh.net/) Blog của Huân, kỹ sư làm việc tại Tesla [Blog Tiếng Việt](http://wasabi.spiderum.com/)
+- [VNHacker](https://vnhacker.blogspot.com/) Blog của anh Thái làm security engineer ở Google, update thường xuyên và có nhiều phân tích chất lượng về bảo mật
 
 ## Podcast
 - [Kipacast](https://kipacast.info) Phỏng vấn các nhân vật trong làng software Việt trên toàn thế giới
@@ -35,6 +35,8 @@ Các blog đáng quan tâm trong ngành
 # Nguồn mở
 
 Những dự án mã nguồn mở do người Việt (bao gồm cả gốc Việt) đóng góp trên 50%, hoặc là người sở hữu, có ít nhất tổng cộng 100 (stars + forks), có tính chất global. Danh sách này để cho chúng ta thấy những giá trị cơ bản mà cộng đồng người Việt khắp nơi trên thế giới đóng góp.
+
+Thứ tụ A-Z theo tên project
 
 - [agar.io-clone](https://github.com/huytd/agar.io-clone) ![Stars](https://img.shields.io/github/stars/huytd/agar.io-clone.svg?style=flat-square)
 - [camaro](https://github.com/tuananh/camaro)  camaro is an utility to transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around ![Stars](https://img.shields.io/github/stars/tuananh/camaro.svg?style=flat-square)
@@ -53,7 +55,9 @@ Những dự án mã nguồn mở do người Việt (bao gồm cả gốc Việ
 - [Pencil - GUI prototyping tool](https://github.com/evolus/pencil)
 - [Responsive Test](https://github.com/nghuuphuoc/responsivetest)
 - [Ruby JARD](https://github.com/nguyenquangminh0711/ruby_jard) Jard stands for Just Another Ruby Debugger, aims to provide a better experience while debugging Ruby
+- [View PDF ReactJS](https://github.com/phuoc-ng/react-pdf-viewer)
 - [Watso Word Watcher](https://github.com/dannguyen/watson-word-watcher)
+
 
 # Nguồn đóng
 - [Manta](https://github.com/hql287/Manta) 🎉 Flexible invoicing desktop app with beautiful & customizable templates. ![Stars](https://img.shields.io/github/stars/hql287/Manta.svg?style=flat-square)
@@ -61,12 +65,12 @@ Những dự án mã nguồn mở do người Việt (bao gồm cả gốc Việ
 - [TablePlus](https://github.com/TablePlus/TablePlus)  TablePlus is a native app which helps you easily edit database data and structure ![Stars](https://img.shields.io/github/stars/TablePlus/TablePlus.svg?style=flat-square)
 
 # Kiến thức
-- [Golang guide: ultimate-go](https://github.com/hoanhan101/ultimate-go)
 - [Building RESTful Web APIs with Node.js, Express, MongoDB and TypeScript](https://restful-api-node-typescript.books.dalenguyen.me/en/latest/)
-- [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) Code examples for the Stanford's course: TensorFlow for Deep Learning Research.
-- [Các thao tác với HTML DOM sử dụng vanilla JavaScript](https://github.com/phuoc-ng/html-dom) ![Stars](https://img.shields.io/github/stars/phuoc-ng/html-dom.svg?style=flat-square)
 - [Các câu lệnh trong JavaScript chỉ với 1 dòng code](https://github.com/phuoc-ng/1loc) ![Stars](https://img.shields.io/github/stars/phuoc-ng/1loc.svg?style=flat-square)
+- [Các thao tác với HTML DOM sử dụng vanilla JavaScript](https://github.com/phuoc-ng/html-dom) ![Stars](https://img.shields.io/github/stars/phuoc-ng/html-dom.svg?style=flat-square)
 - [CSS Layout](https://github.com/phuoc-ng/csslayout) A collection of popular layouts and patterns made with CSS. Now it has 90+ patterns and continues growing! ![Stars](https://img.shields.io/github/stars/phuoc-ng/csslayout.svg?style=flat-square)
+- [Golang guide: ultimate-go](https://github.com/hoanhan101/ultimate-go)
+- [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) Code examples for the Stanford's course: TensorFlow for Deep Learning Research.
 
 # Bộ gõ tiếng Việt
 
@@ -87,7 +91,6 @@ Những dự án mã nguồn mở do người Việt (bao gồm cả gốc Việ
 - [underthesea](https://github.com/undertheseanlp/underthesea) - Vietnamese NLP Toolkit
 - [vn.vitk](https://github.com/phuonglh/vn.vitk) - A Vietnamese Text Processing Toolkit
 - [VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP) - A Vietnamese natural language processing toolkit
-- [View PDF ReactJS](https://github.com/phuoc-ng/react-pdf-viewer)
 
 ## Dữ liệu / Data
 
