@@ -41,6 +41,7 @@ Thứ tụ A-Z theo tên project
 - [agar.io-clone](https://github.com/huytd/agar.io-clone) ![Stars](https://img.shields.io/github/stars/huytd/agar.io-clone.svg?style=flat-square)
 - [camaro](https://github.com/tuananh/camaro)  camaro is an utility to transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around ![Stars](https://img.shields.io/github/stars/tuananh/camaro.svg?style=flat-square)
 - [Capstone](https://github.com/aquynh/capstone) Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) ![Stars](https://img.shields.io/github/stars/aquynh/capstone.svg?style=flat-square)
+- [Cloud Retro](https://github.com/giongto35/cloud-game) Play retro games on your own cloud ![Stars](https://img.shields.io/github/stars/giongto35/cloud-game.svg?style=flat-square)
 - [Crankshaft](https://github.com/opencardev/crankshaft) A turnkey GNU/Linux solution that transforms a Raspberry Pi to an Android Auto head unit.
 - [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) A nicer iOS UI component for picking date and time. ![Stars](https://img.shields.io/github/stars/itsmeichigo/DateTimePicker.svg?style=flat-square)
 - [esp_mqtt](https://github.com/tuanpmt/esp_mqtt) MQTT client library for ESP8266 ![Stars](https://img.shields.io/github/stars/tuanpmt/esp_mqtt.svg?style=flat-square)
