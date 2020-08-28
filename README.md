@@ -26,6 +26,7 @@ Các blog đáng quan tâm trong ngành
 - [Machine learning cơ bản](https://machinelearningcoban.com/) Blog của anh Tiệp, tiến sĩ ML và CV từ Pennsylvania State University
 - [Runi's blog](http://runikitkat.com/) Blog về go, rust, cuộc sống của developer
 - [The Full Snack](https://thefullsnack.com) Blog của Huy làm Frontend ở Synchrony bank, Silicon Valley, khá hài hước
+- [Thau Nguyen](http://thaunguyen.com/blog/) Triết học trong phát triển phần mềm
 - [Tôi đi code dạo](https://toidicodedao.com) Blog về cuộc sống của một developer
 - [VNHacker](https://vnhacker.blogspot.com/) Blog của anh Thái làm security engineer ở Google, update thường xuyên và có nhiều phân tích chất lượng về bảo mật
 
