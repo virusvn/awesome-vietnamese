@@ -21,6 +21,7 @@ awesome-vietnamese tập hợp các cộng đồng, blog và sản phẩm phần
 Các blog đáng quan tâm trong ngành
 - [Codeaholicguy](https://codeaholicguy.com/) Blog của Hoàng, làm việc ở Shopback @ HCMC
 - [Dale Nguyen on ITNEXT](https://itnext.io/@dalenguyen) Blog của Dũng, backend engineer @ Canada
+- [Ehkoo](https://ehkoo.com) Blog về Javascript của một nhóm developer Việt ở châu Âu
 - [FAMI Linux User Group](https://www.familug.org/) Blog vể Python, Linux, programming
 - [Huan Truong's blog](http://www.tnhh.net/) Blog của Huân, kỹ sư làm việc tại Tesla [Blog Tiếng Việt](http://wasabi.spiderum.com/)
 - [Huy DX](https://huydx.com/) Huy, kỹ sư phần mềm ở Line Tokyo
