@@ -7,7 +7,7 @@ awesome-vietnamese tập hợp các cộng đồng, blog và sản phẩm phần
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Country](https://img.shields.io/badge/country-vietnam-blue.svg)](https://github.com/thanhphu/awesome-vietnamese)
-[![From Vietnam with <3](https://raw.githubusercontent.com/webuild-community/badge/master/svg/love.svg)]
+![From Vietnam with <3](https://raw.githubusercontent.com/webuild-community/badge/master/svg/love.svg)
 
 # Cộng đồng
 - [Google Developers Group Vietnam](https://linkedin.com/company/google-developer-groups-vietnam-gdg-vietnam-) Cộng đồng developers sử dụng công nghệ của Google tại Việt Nam
