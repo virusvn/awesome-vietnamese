@@ -26,7 +26,9 @@ Các blog đáng quan tâm trong ngành
 - [FAMI Linux User Group](https://www.familug.org/) Blog vể Python, Linux, programming
 - [Huan Truong's blog](http://www.tnhh.net/) Blog của Huân, kỹ sư làm việc tại Tesla [Blog Tiếng Việt](http://wasabi.spiderum.com/)
 - [Huy DX](https://huydx.com/) Huy, kỹ sư phần mềm ở Line Tokyo
+- [Ký sự cầu nối BrSE](http://kysubrse.com/) Chia sẻ kinh nghiệm về nghề kỹ sư cầu nối - BrSE và làm việc trong ngành phần mềm cho thị trường Nhật
 - [Machine learning cơ bản](https://machinelearningcoban.com/) Blog của anh Tiệp, tiến sĩ ML và CV từ Pennsylvania State University
+- [Niviki](https://niviki.com) Blog về cách Xây dựng MVP, Chia sẻ kinh nghiệm phát triển các side projects
 - [Runi's blog](http://runikitkat.com/) Blog về go, rust, cuộc sống của developer
 - [The Full Snack](https://thefullsnack.com) Blog của Huy làm Frontend ở Synchrony bank, Silicon Valley, khá hài hước
 - [Thau Nguyen](http://thaunguyen.com/blog/) Triết học trong phát triển phần mềm
@@ -35,6 +37,7 @@ Các blog đáng quan tâm trong ngành
 
 ## Podcast
 - [Kipacast](https://kipacast.info) Phỏng vấn các nhân vật trong làng software Việt trên toàn thế giới
+- [Niviki](https://niviki.com/podcast) Podcast về cuộc sống và công nghệ
 
 # Nguồn mở
 
