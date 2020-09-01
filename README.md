@@ -52,6 +52,7 @@ Thứ tụ A-Z theo tên project
 - [Crankshaft](https://github.com/opencardev/crankshaft) A turnkey GNU/Linux solution that transforms a Raspberry Pi to an Android Auto head unit.
 - [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) A nicer iOS UI component for picking date and time. ![Stars](https://img.shields.io/github/stars/itsmeichigo/DateTimePicker.svg?style=flat-square)
 - [esp_mqtt](https://github.com/tuanpmt/esp_mqtt) MQTT client library for ESP8266 ![Stars](https://img.shields.io/github/stars/tuanpmt/esp_mqtt.svg?style=flat-square)
+- [emojicon](https://github.com/rockerhieu/emojicon) Emojicon is a library to implement emojis like Whatsapp, iMessage for Android. ![Stars](https://img.shields.io/github/stars/rockerhieu/emojicon.svg?style=flat-square)
 - [FormValidation](https://github.com/formvalidation/formvalidation) best @jquery plugin to validate form fields. ![Stars](https://img.shields.io/github/stars/formvalidation/formvalidation.svg?style=flat-square)
 - [Freewall is a cross-browser and responsive jQuery plugin to help you create many types of grid layouts for desktop, mobile, and tablet...](https://github.com/kombai/freewall)
 - [Hệ thống hỏi đáp Phanbook](http://phanbook.com/en/)
