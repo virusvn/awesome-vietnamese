@@ -65,6 +65,7 @@ Thứ tụ A-Z theo tên project
 - [Pencil - GUI prototyping tool](https://github.com/evolus/pencil)
 - [Responsive Test](https://github.com/nghuuphuoc/responsivetest)
 - [Ruby JARD](https://github.com/nguyenquangminh0711/ruby_jard) Jard stands for Just Another Ruby Debugger, aims to provide a better experience while debugging Ruby
+- [spicetify](https://github.com/khanhas/spicetify-cli) Customize Spotify client. Supports Windows, Linux, MacOS ![Stars](https://img.shields.io/github/stars/nguyenquangminh0711/ruby_jard.svg?style=flat-square)
 - [View PDF ReactJS](https://github.com/phuoc-ng/react-pdf-viewer)
 - [Watso Word Watcher](https://github.com/dannguyen/watson-word-watcher)
 
