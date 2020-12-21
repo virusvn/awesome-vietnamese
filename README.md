@@ -34,6 +34,7 @@ Các blog đáng quan tâm trong ngành
 - [Thau Nguyen](http://thaunguyen.com/blog/) Triết học trong phát triển phần mềm
 - [Tôi đi code dạo](https://toidicodedao.com) Blog về cuộc sống của một developer
 - [VNHacker](https://vnhacker.blogspot.com/) Blog của anh Thái làm security engineer ở Google, update thường xuyên và có nhiều phân tích chất lượng về bảo mật
+- [Thinhnotes](https://thinhnotes.com/) Blog của anh Thịnh, bao gồm những những câu chuyện xoay quanh công việc BA.
 
 ## Podcast
 - [Kipacast](https://kipacast.info) Phỏng vấn các nhân vật trong làng software Việt trên toàn thế giới
