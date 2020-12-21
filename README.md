@@ -20,6 +20,7 @@ awesome-vietnamese tập hợp các cộng đồng, blog và sản phẩm phần
 
 ## Blog
 Các blog đáng quan tâm trong ngành
+- [0DAY IN {REA_TEAM}](https://kienmanowar.wordpress.com/) Blog của anh Trần Trung Kiên (kienmanowar), một thành viên thuộc nhóm REA, chuyên về Reverse Engineering/Cracking.
 - [Codeaholicguy](https://codeaholicguy.com/) Blog của Hoàng, làm việc ở Shopback @ HCMC
 - [Dale Nguyen on ITNEXT](https://itnext.io/@dalenguyen) Blog của Dũng, backend engineer @ Canada
 - [Ehkoo](https://ehkoo.com) Blog về Javascript của một nhóm developer Việt ở châu Âu
