@@ -20,6 +20,7 @@ awesome-vietnamese tập hợp các cộng đồng, blog và sản phẩm phần
 
 ## Blog
 Các blog đáng quan tâm trong ngành
+- [0DAY IN {REA_TEAM}](https://kienmanowar.wordpress.com/) Blog của anh Trần Trung Kiên (kienmanowar), một thành viên thuộc nhóm REA, chuyên về Reverse Engineering/Cracking.
 - [Codeaholicguy](https://codeaholicguy.com/) Blog của Hoàng, làm việc ở Shopback @ HCMC
 - [Dale Nguyen on ITNEXT](https://itnext.io/@dalenguyen) Blog của Dũng, backend engineer @ Canada
 - [Ehkoo](https://ehkoo.com) Blog về Javascript của một nhóm developer Việt ở châu Âu
@@ -32,6 +33,7 @@ Các blog đáng quan tâm trong ngành
 - [Runi's blog](http://runikitkat.com/) Blog về go, rust, cuộc sống của developer
 - [The Full Snack](https://thefullsnack.com) Blog của Huy làm Frontend ở Synchrony bank, Silicon Valley, khá hài hước
 - [Thau Nguyen](http://thaunguyen.com/blog/) Triết học trong phát triển phần mềm
+- [Thinhnotes](https://thinhnotes.com/) Blog của anh Thịnh, bao gồm những những câu chuyện xoay quanh công việc BA.
 - [Tôi đi code dạo](https://toidicodedao.com) Blog về cuộc sống của một developer
 - [VNHacker](https://vnhacker.blogspot.com/) Blog của anh Thái làm security engineer ở Google, update thường xuyên và có nhiều phân tích chất lượng về bảo mật
 
