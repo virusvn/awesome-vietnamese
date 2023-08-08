@@ -72,7 +72,7 @@ Thứ tụ A-Z theo tên project
 - [Watso Word Watcher](https://github.com/dannguyen/watson-word-watcher)
 - [Human-First AI: h1st-ai/h1st](https://github.com/h1st-ai/h1st)
 - [The Ultimate Go Study Guide](https://github.com/hoanhan101/ultimate-go)
-
+- [Clendar - Minimal Calendar. Written in SwiftUI. Available on App Store. MIT License.](https://github.com/vinhnx/Clendar)
 
 # Nguồn đóng
 - [Manta](https://github.com/hql287/Manta) 🎉 Flexible invoicing desktop app with beautiful & customizable templates. ![Stars](https://img.shields.io/github/stars/hql287/Manta.svg?style=flat-square)
