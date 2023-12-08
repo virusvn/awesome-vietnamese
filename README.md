@@ -88,6 +88,7 @@ Thứ tụ A-Z theo tên project
 - [Golang guide: ultimate-go](https://github.com/hoanhan101/ultimate-go)
 - [htaccess](https://github.com/phanan/htaccess) ✂A collection of useful .htaccess snippets
 - [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) Code examples for the Stanford's course: TensorFlow for Deep Learning Research.
+- [Tiếp thị số, xử lý dữ liệu và lập trình](https://lậptrình.quảcầu.cc/?utm_source=GitHub+%C2%BB+virusvn%2Fawesome-vietnamese&utm_medium=social&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3) – Những khái niệm thiết yếu trong việc xây dựng mental model
 
 # Bộ gõ tiếng Việt
 
@@ -108,6 +109,7 @@ Thứ tụ A-Z theo tên project
 - [underthesea](https://github.com/undertheseanlp/underthesea) - Vietnamese NLP Toolkit
 - [vn.vitk](https://github.com/phuonglh/vn.vitk) - A Vietnamese Text Processing Toolkit
 - [VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP) - A Vietnamese natural language processing toolkit
+- [Trấn Kỳ](https://lậptrình.quảcầu.cc/%F0%9F%91%8Ftr%E1%BA%A5n%20k%E1%BB%B3/?utm_source=GitHub+%C2%BB+virusvn%2Fawesome-vietnamese&utm_medium=social&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3) – Phân loại dữ liệu bằng tiếng Việt tự nhiên (rule-based NER) 
 
 ## Dữ liệu / Data
 
