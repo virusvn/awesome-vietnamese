@@ -36,6 +36,7 @@ Các blog đáng quan tâm trong ngành
 - [Thinhnotes](https://thinhnotes.com/) Blog của anh Thịnh, bao gồm những những câu chuyện xoay quanh công việc BA.
 - [Tôi đi code dạo](https://toidicodedao.com) Blog về cuộc sống của một developer
 - [VNHacker](https://vnhacker.blogspot.com/) Blog của anh Thái làm security engineer ở Google, update thường xuyên và có nhiều phân tích chất lượng về bảo mật
+- [Hồng San's blog](https://github.com/hongsan/random/discussions) Blog của anh Hồng San - Vin3S Director of Technology Division, các bài viết xoay quanh quy trình, kiến trúc phát triển phần mềm.
 
 ## Podcast
 - [Kipacast](https://kipacast.info) Phỏng vấn các nhân vật trong làng software Việt trên toàn thế giới
@@ -68,6 +69,7 @@ Thứ tụ A-Z theo tên project
 - [Responsive Test](https://github.com/nghuuphuoc/responsivetest)
 - [Ruby JARD](https://github.com/nguyenquangminh0711/ruby_jard) Jard stands for Just Another Ruby Debugger, aims to provide a better experience while debugging Ruby
 - [spicetify](https://github.com/khanhas/spicetify-cli) Customize Spotify client. Supports Windows, Linux, MacOS ![Stars](https://img.shields.io/github/stars/nguyenquangminh0711/ruby_jard.svg?style=flat-square)
+- [Scyna](https://github.com/scyna) Event-Sourcing | Microservice IDP
 - [View PDF ReactJS](https://github.com/phuoc-ng/react-pdf-viewer)
 - [Watso Word Watcher](https://github.com/dannguyen/watson-word-watcher)
 - [Human-First AI: h1st-ai/h1st](https://github.com/h1st-ai/h1st)
