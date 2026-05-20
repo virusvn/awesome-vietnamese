@@ -78,6 +78,7 @@ Thứ tụ A-Z theo tên project
 - [Manta](https://github.com/hql287/Manta) 🎉 Flexible invoicing desktop app with beautiful & customizable templates. ![Stars](https://img.shields.io/github/stars/hql287/Manta.svg?style=flat-square)
 - [Proxyman](https://github.com/ProxymanApp/Proxyman)  Modern and Delightful HTTP Debugging Proxy for macOS, iOS and Android ![Stars](https://img.shields.io/github/stars/ProxymanApp/Proxyman.svg?style=flat-square)
 - [TablePlus](https://github.com/TablePlus/TablePlus)  TablePlus is a native app which helps you easily edit database data and structure ![Stars](https://img.shields.io/github/stars/TablePlus/TablePlus.svg?style=flat-square)
+- [Wondika](https://wondika.com) Ứng dụng học Toán cho trẻ 6–11 tuổi (K–5) bằng các cuộc phiêu lưu truyện tranh do AI tạo, hỗ trợ lồng tiếng tiếng Việt và tiếng Anh. iOS, Android, Web. Built by a 2-person Vietnamese team.
 
 # Kiến thức
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) An organized reading list for illustrating the patterns of scalable, reliable, and performant large-scale systems ![Stars](https://img.shields.io/github/stars/binhnguyennus/awesome-scalability.svg?style=flat-square)
