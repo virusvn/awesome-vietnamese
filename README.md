@@ -81,6 +81,7 @@ Thứ tụ A-Z theo tên project
 
 # Kiến thức
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) An organized reading list for illustrating the patterns of scalable, reliable, and performant large-scale systems ![Stars](https://img.shields.io/github/stars/binhnguyennus/awesome-scalability.svg?style=flat-square)
+- [awesome-scam-protection-vn](https://github.com/tuanone123/awesome-scam-protection-vn) Danh sách nguồn chính thống để kiểm tra, báo cáo và phòng tránh lừa đảo trực tuyến tại Việt Nam (song ngữ VI/EN) ![Stars](https://img.shields.io/github/stars/tuanone123/awesome-scam-protection-vn.svg?style=flat-square)
 - [Building RESTful Web APIs with Node.js, Express, MongoDB and TypeScript](https://restful-api-node-typescript.books.dalenguyen.me/en/latest/)
 - [Các câu lệnh trong JavaScript chỉ với 1 dòng code](https://github.com/phuoc-ng/1loc) ![Stars](https://img.shields.io/github/stars/phuoc-ng/1loc.svg?style=flat-square)
 - [Các thao tác với HTML DOM sử dụng vanilla JavaScript](https://github.com/phuoc-ng/html-dom) ![Stars](https://img.shields.io/github/stars/phuoc-ng/html-dom.svg?style=flat-square)
