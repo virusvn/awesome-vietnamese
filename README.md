@@ -75,6 +75,7 @@ Thứ tụ A-Z theo tên project
 - [Clendar - Minimal Calendar](https://github.com/vinhnx/Clendar) Open Source iOS App. Written in SwiftUI. Available on App Store. MIT License.
 
 # Nguồn đóng
+- [ChuyenPDF.vn](https://chuyenpdf.vn) Bộ công cụ PDF trực tuyến miễn phí, 100% tiếng Việt: chuyển PDF sang Word, ghép, tách, nén, khóa, mở khóa, ký tên, OCR tiếng Việt — xử lý ngay trên trình duyệt, file không rời thiết bị của người dùng
 - [Manta](https://github.com/hql287/Manta) 🎉 Flexible invoicing desktop app with beautiful & customizable templates. ![Stars](https://img.shields.io/github/stars/hql287/Manta.svg?style=flat-square)
 - [Proxyman](https://github.com/ProxymanApp/Proxyman)  Modern and Delightful HTTP Debugging Proxy for macOS, iOS and Android ![Stars](https://img.shields.io/github/stars/ProxymanApp/Proxyman.svg?style=flat-square)
 - [TablePlus](https://github.com/TablePlus/TablePlus)  TablePlus is a native app which helps you easily edit database data and structure ![Stars](https://img.shields.io/github/stars/TablePlus/TablePlus.svg?style=flat-square)
@@ -116,3 +117,4 @@ Thứ tụ A-Z theo tên project
 - [UD_Vietnamese](https://github.com/UniversalDependencies/UD_Vietnamese-VTB) - Vietnamese Universal Dependency Treebank
 - [VIVOS](https://ailab.hcmus.edu.vn/vivos/) - a free Vietnamese speech corpus consisting of 15 hours of recording speech by AILab
 - [VNTQcorpus(big).txt](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus) - 1.75 million sentences in news
+
