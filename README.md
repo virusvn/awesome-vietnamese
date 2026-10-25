@@ -97,6 +97,7 @@ Thứ tụ A-Z theo tên project
 - [NAKL](https://github.com/huyphan/NAKL) [Mac]
 
 ## Nguồn đóng
+- [DauKey](https://daukey.keellabs.dev/) [Win / Linux] Bộ gõ Telex, VNI, VIQR; tự giữ nguyên từ tiếng Anh, gõ tắt dùng chung giữa các máy
 - [EV Key](https://evkeyvn.com/) [Win / Mac] Fork of Unikey
 - [Gotiengviet](https://www.trankynam.com/gotv) [Win / Mac / Linux] Fork of Unikey
 - [Unikey](https://www.unikey.org/linux.html) [Win / Mac / Linux] Anh cả của các bộ gõ tiếng Việt
